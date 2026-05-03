@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703163429571",
+    "project_id": "habitsnap-be95b",
+    "storage_bucket": "habitsnap-be95b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703163429571:android:22217e503792be47daa876",
+        "android_client_info": {
+          "package_name": "com.example.habitsnap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIc1htfMFAwCaHv2M96d9xMzgWG45Gbwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HabitSnap</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="check_in">Check In</string>
+    <string name="add_habit">Add Habit</string>
+</resources>
